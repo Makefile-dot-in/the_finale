@@ -33,6 +33,26 @@ background-image: fons.jpg
 
 #### Divdīgļlapju klase
 
+##### Krustziežu dzimta
+
+![](krustziedes/diagramma.jpg){height=500px}\
+
+---
+
+![Pelēkā sirmene](krustziedes/peleka_sirmene.jpg){height=550px}
+
+---
+
+![Ārstniecības ķiplocene](krustziedes/arstniecibas_kiplocene.jpg){height=550px}
+
+---
+
+![Skarbā ķērsa](krustziedes/skarba_kersa.jpg){height=550px}
+
+---
+
+![Melnā sinepe](krustziedes/melna_sinepe.jpg){height=550px}
+
 ##### Rubiju dzimta
 
 ![Krāsu miešķis](rubijas/krasu_mieskis.png){height=440px}
