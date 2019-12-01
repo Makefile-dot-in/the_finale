@@ -1,16 +1,21 @@
 ---
 pagetitle: Latvijas augi
-parallaxBackgroundImage: fons.jpg
-parallaxBackgroundSize: 1280px 853px
-parallaxBackgroundHorizontal: 0
-parallaxBackgroundVertical: 0
+background-image: fons.jpg
 ---
 
 # Latvijas augi
 
 ###### Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
 
-# Liliju dzimta
+# Augu valsts
+
+## Sēklaugu nodalījums
+
+### Segsēkļu apakšnodalījums
+
+#### Viendīgļlapju klase
+
+##### Liliju dzimta
 
 ![Četrlapu čūskoga](lilijas/cetrlapu_cuskoga.png){height=440px}
 
@@ -26,7 +31,9 @@ parallaxBackgroundVertical: 0
 
 ![Kalnu sīpols](lilijas/kalnu_sipols.png){height=550px}
 
-# Rubiju dzimta
+#### Divdīgļlapju klase
+
+##### Rubiju dzimta
 
 ![Krāsu miešķis](rubijas/krasu_mieskis.png){height=440px}
 
@@ -42,7 +49,7 @@ parallaxBackgroundVertical: 0
 
 ![Purva madara](rubijas/purva_madara.png){height=550px}
 
-# Vijolīšu dzimta
+##### Vijolīšu dzimta
 
 ![Tīruma vijolīte](vijolites/tiruma_vijolite.jpg){height=440px}
 
@@ -54,7 +61,11 @@ parallaxBackgroundVertical: 0
 
 ![Jūrmalas vijolīte](vijolites/augsta_vijolite.jpg){height=550px}
 
-# Ciprešu dzimta
+### Kailsēkļu apakšnodalījums
+
+#### Skujkoku klase
+
+##### Ciprešu dzimta
 
 ![Parastais kadiķis](cipreses_ives/kadikis1.jpg){height=440px}
 
@@ -74,7 +85,7 @@ parallaxBackgroundVertical: 0
 
 ![](cipreses_ives/tuja3.jpg){height=550px}\
 
-# Īvju dzimta
+##### Īvju dzimta
 
 ![Parastā īve](cipreses_ives/ive1.jpg){height=420px}
 
