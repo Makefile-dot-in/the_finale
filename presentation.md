@@ -1,3 +1,11 @@
+---
+pagetitle: Latvijas augi
+parallaxBackgroundImage: fons.jpg
+parallaxBackgroundSize: 1280px 853px
+parallaxBackgroundHorizontal: 0
+parallaxBackgroundVertical: 0
+---
+
 # Latvijas augi
 
 ###### Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
