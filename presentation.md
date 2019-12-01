@@ -68,7 +68,7 @@
 
 # Īvju dzimta
 
-![Parastā īve](cipreses_ives/ive1.jpg){height=550px}\
+![Parastā īve](cipreses_ives/ive1.jpg){height=550px}
 
 ---
 
