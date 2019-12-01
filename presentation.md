@@ -92,3 +92,34 @@ background-image: fons.jpg
 ---
 
 ![](cipreses_ives/ive2.jpg){height=550px}\
+
+## Paparžaugu nodalījums
+
+### Staipekņu apakšnodalījums
+
+#### Staipekņu klase
+
+##### Staipekņu dzimta
+
+![Vālīšu staipeknis](staipekni/valisu_staipeknis.png){height=440px}
+
+##### Ezereņu dzimta
+
+![Dzeloņsporu ezerene](staipekni/dzelonsporu_ezerene.png){height=440px}
+
+##### Apdziru dzimta
+
+![Apdzira](staipekni/apdzira.png){height=440px}
+
+### Kosu apakšnodalījums
+
+#### Kosu klase
+
+##### Kosu dzimta
+
+![Tīruma kosa](kosas/tiruma_kosa.png){height=440px}
+
+---
+
+![Pļavas kosa](kosas/plavas_kosa.png){height=550px}
+
