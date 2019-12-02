@@ -33,6 +33,20 @@ background-image: fons.jpg
 
 #### Divdīgļlapju klase
 
+##### Rožu dzimta
+
+---
+
+![](rozes/1.jpg){height=550px}\
+
+---
+
+![](rozes/2.jpg){height=550px}\
+
+---
+
+![](rozes/3.jpg){height=550px}\
+
 ##### Krustziežu dzimta
 
 ![](krustziedes/diagramma.jpg){height=500px}\
@@ -115,6 +129,24 @@ background-image: fons.jpg
 
 ## Paparžaugu nodalījums
 
+### Paparžu apakšnodalījums
+
+#### Paparžu klase
+
+##### Sīkpaparžu dzimta
+
+---
+
+![Mūru sīkpaparde](papardes/1muru_sikpaparde.png){height=550px}
+
+---
+
+![Plūksnu sīkpaparde](papardes/2pluksnu_sikpaparde.png){height=550px}
+
+##### Ēnpaparžu dzimta
+
+![Vārpu ēnpaparde](papardes/3varpu_enpaparde.jpg)
+
 ### Staipekņu apakšnodalījums
 
 #### Staipekņu klase
@@ -137,9 +169,24 @@ background-image: fons.jpg
 
 ##### Kosu dzimta
 
-![Tīruma kosa](kosas/tiruma_kosa.png){height=440px}
+---
+
+![Tīruma kosa](kosas/tiruma_kosa.png){height=550px}
 
 ---
 
 ![Pļavas kosa](kosas/plavas_kosa.png){height=550px}
 
+# Sēņu valsts
+
+![Skarbā briežtrifele](senes/1skarba_brieztrifele.jpg){height=440px}
+
+---
+
+![Tumšā bērzlape](senes/2tumsa_berzlape.jpg){height=550px}
+
+---
+
+# Ķērpji
+
+![Baltais krūmu ķērpis](senes/1baltais_krumu_kerpis.jpg)
