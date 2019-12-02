@@ -5,7 +5,7 @@ background-image: fons.jpg
 
 # Latvijas augi
 
-# Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
+##### Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
 
 # Augu valsts
 
