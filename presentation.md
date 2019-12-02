@@ -9,11 +9,19 @@ background-image: fons.jpg
 
 # Augu valsts
 
+---
+
 ## Sēklaugu nodalījums
+
+---
 
 ### Segsēkļu apakšnodalījums
 
+---
+
 #### Viendīgļlapju klase
+
+---
 
 ##### Liliju dzimta
 
@@ -32,6 +40,8 @@ background-image: fons.jpg
 ![Kalnu sīpols](lilijas/kalnu_sipols.png){height=550px}
 
 #### Divdīgļlapju klase
+
+---
 
 ##### Rožu dzimta
 
@@ -97,7 +107,11 @@ background-image: fons.jpg
 
 ### Kailsēkļu apakšnodalījums
 
+---
+
 #### Skujkoku klase
+
+---
 
 ##### Ciprešu dzimta
 
@@ -121,6 +135,8 @@ background-image: fons.jpg
 
 ##### Īvju dzimta
 
+---
+
 ![Parastā īve](cipreses_ives/ive1.jpg){height=420px}
 
 ---
@@ -129,9 +145,15 @@ background-image: fons.jpg
 
 ## Paparžaugu nodalījums
 
+---
+
 ### Paparžu apakšnodalījums
 
+---
+
 #### Paparžu klase
+
+---
 
 ##### Sīkpaparžu dzimta
 
@@ -149,7 +171,11 @@ background-image: fons.jpg
 
 ### Staipekņu apakšnodalījums
 
+---
+
 #### Staipekņu klase
+
+---
 
 ##### Staipekņu dzimta
 
@@ -165,7 +191,11 @@ background-image: fons.jpg
 
 ### Kosu apakšnodalījums
 
+---
+
 #### Kosu klase
+
+---
 
 ##### Kosu dzimta
 
