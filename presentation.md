@@ -5,25 +5,17 @@ background-image: fons.jpg
 
 # Latvijas augi
 
-###### Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
+# Autori: Kārlis Gustavs Ārītis, Niklāvs Bērziņš, Mārtiņš Bode, Rūdolfs Bogdanos, Uvis Olafs Briedis, Ēriks Dukaļskis, Andris Greitāns, Artūrs Patriks Griķis, Viestards Kalniņš, Ernests Kurmis, Roberts Kuzņecovs, Kristaps Kristers Lakševics, Andris Morozovs, Kārlis Pastors, Kristaps Plāte, Patriks Jānis Pudāns, Valts Putāns, Kārlis Aleksands Strante, Arts Stuberovskis
 
 # Augu valsts
 
----
+# Sēklaugu nodalījums
 
-## Sēklaugu nodalījums
+# Segsēkļu apakšnodalījums
 
----
+# Viendīgļlapju klase
 
-### Segsēkļu apakšnodalījums
-
----
-
-#### Viendīgļlapju klase
-
----
-
-##### Liliju dzimta
+# Liliju dzimta
 
 ![Četrlapu čūskoga](lilijas/cetrlapu_cuskoga.png){height=440px}
 
@@ -39,11 +31,9 @@ background-image: fons.jpg
 
 ![Kalnu sīpols](lilijas/kalnu_sipols.png){height=550px}
 
-#### Divdīgļlapju klase
+# Divdīgļlapju klase
 
----
-
-##### Rožu dzimta
+# Rožu dzimta
 
 ---
 
@@ -57,7 +47,7 @@ background-image: fons.jpg
 
 ![](rozes/3.jpg){height=550px}\
 
-##### Krustziežu dzimta
+# Krustziežu dzimta
 
 ![](krustziedes/diagramma.jpg){height=500px}\
 
@@ -77,7 +67,7 @@ background-image: fons.jpg
 
 ![Melnā sinepe](krustziedes/melna_sinepe.jpg){height=550px}
 
-##### Rubiju dzimta
+# Rubiju dzimta
 
 ![Krāsu miešķis](rubijas/krasu_mieskis.png){height=440px}
 
@@ -93,7 +83,7 @@ background-image: fons.jpg
 
 ![Purva madara](rubijas/purva_madara.png){height=550px}
 
-##### Vijolīšu dzimta
+# Vijolīšu dzimta
 
 ![Tīruma vijolīte](vijolites/tiruma_vijolite.jpg){height=440px}
 
@@ -105,15 +95,11 @@ background-image: fons.jpg
 
 ![Jūrmalas vijolīte](vijolites/augsta_vijolite.jpg){height=550px}
 
-### Kailsēkļu apakšnodalījums
+# Kailsēkļu apakšnodalījums
 
----
+# Skujkoku klase
 
-#### Skujkoku klase
-
----
-
-##### Ciprešu dzimta
+# Ciprešu dzimta
 
 ![Parastais kadiķis](cipreses_ives/kadikis1.jpg){height=440px}
 
@@ -133,7 +119,7 @@ background-image: fons.jpg
 
 ![](cipreses_ives/tuja3.jpg){height=550px}\
 
-##### Īvju dzimta
+# Īvju dzimta
 
 ---
 
@@ -143,19 +129,13 @@ background-image: fons.jpg
 
 ![](cipreses_ives/ive2.jpg){height=550px}\
 
-## Paparžaugu nodalījums
+# Paparžaugu nodalījums
 
----
+# Paparžu apakšnodalījums
 
-### Paparžu apakšnodalījums
+# Paparžu klase
 
----
-
-#### Paparžu klase
-
----
-
-##### Sīkpaparžu dzimta
+# Sīkpaparžu dzimta
 
 ---
 
@@ -165,39 +145,31 @@ background-image: fons.jpg
 
 ![Plūksnu sīkpaparde](papardes/2pluksnu_sikpaparde.png){height=550px}
 
-##### Ēnpaparžu dzimta
+# Ēnpaparžu dzimta
 
 ![Vārpu ēnpaparde](papardes/3varpu_enpaparde.jpg)
 
-### Staipekņu apakšnodalījums
+# Staipekņu apakšnodalījums
 
----
+# Staipekņu klase
 
-#### Staipekņu klase
-
----
-
-##### Staipekņu dzimta
+# Staipekņu dzimta
 
 ![Vālīšu staipeknis](staipekni/valisu_staipeknis.png){height=440px}
 
-##### Ezereņu dzimta
+# Ezereņu dzimta
 
 ![Dzeloņsporu ezerene](staipekni/dzelonsporu_ezerene.png){height=440px}
 
-##### Apdziru dzimta
+# Apdziru dzimta
 
 ![Apdzira](staipekni/apdzira.png){height=440px}
 
-### Kosu apakšnodalījums
+# Kosu apakšnodalījums
 
----
+# Kosu klase
 
-#### Kosu klase
-
----
-
-##### Kosu dzimta
+# Kosu dzimta
 
 ---
 
