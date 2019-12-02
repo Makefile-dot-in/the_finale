@@ -31,6 +31,7 @@ background-image: fons.jpg
 
 ![Kalnu sīpols](lilijas/kalnu_sipols.png){height=550px}
 
+
 # Divdīgļlapju klase
 
 # Rožu dzimta
@@ -46,6 +47,7 @@ background-image: fons.jpg
 ---
 
 ![](rozes/3.jpg){height=550px}\
+
 
 # Krustziežu dzimta
 
@@ -67,6 +69,7 @@ background-image: fons.jpg
 
 ![Melnā sinepe](krustziedes/melna_sinepe.jpg){height=550px}
 
+
 # Rubiju dzimta
 
 ![Krāsu miešķis](rubijas/krasu_mieskis.png){height=440px}
@@ -83,6 +86,7 @@ background-image: fons.jpg
 
 ![Purva madara](rubijas/purva_madara.png){height=550px}
 
+
 # Vijolīšu dzimta
 
 ![Tīruma vijolīte](vijolites/tiruma_vijolite.jpg){height=440px}
@@ -95,9 +99,12 @@ background-image: fons.jpg
 
 ![Jūrmalas vijolīte](vijolites/augsta_vijolite.jpg){height=550px}
 
+
 # Kailsēkļu apakšnodalījums
 
+
 # Skujkoku klase
+
 
 # Ciprešu dzimta
 
@@ -119,6 +126,7 @@ background-image: fons.jpg
 
 ![](cipreses_ives/tuja3.jpg){height=550px}\
 
+
 # Īvju dzimta
 
 ---
@@ -129,11 +137,15 @@ background-image: fons.jpg
 
 ![](cipreses_ives/ive2.jpg){height=550px}\
 
+
 # Paparžaugu nodalījums
+
 
 # Paparžu apakšnodalījums
 
+
 # Paparžu klase
+
 
 # Sīkpaparžu dzimta
 
@@ -145,9 +157,11 @@ background-image: fons.jpg
 
 ![Plūksnu sīkpaparde](papardes/2pluksnu_sikpaparde.png){height=550px}
 
+
 # Ēnpaparžu dzimta
 
 ![Vārpu ēnpaparde](papardes/3varpu_enpaparde.jpg)
+
 
 # Staipekņu apakšnodalījums
 
@@ -179,6 +193,7 @@ background-image: fons.jpg
 
 ![Pļavas kosa](kosas/plavas_kosa.png){height=550px}
 
+
 # Sēņu valsts
 
 ![Skarbā briežtrifele](senes/1skarba_brieztrifele.jpg){height=440px}
@@ -188,6 +203,7 @@ background-image: fons.jpg
 ![Tumšā bērzlape](senes/2tumsa_berzlape.jpg){height=550px}
 
 ---
+
 
 # Ķērpji
 
