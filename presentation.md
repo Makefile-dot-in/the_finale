@@ -394,7 +394,7 @@ background-image: fons.jpg
 
 ---
 
-![Iedzeltenais jumjupēdis](senes/3iedezeltenais_jumjupedis.jpg){height=550px}
+![Iedzeltenais jumjupūpēdis](senes/3iedezeltenais_jumjupupedis.jpg){height=550px}
 
 ---
 
