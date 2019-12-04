@@ -65,19 +65,19 @@ background-image: fons.jpg
 
 ---
 
-![Dzeltenā lēpe](the_finale/1dzeltena_lepe.jpg){height=550px}
+![Dzeltenā lēpe](udensrozes/1dzeltena_lepe.jpg){height=550px}
 
 ---
 
-![Sīkā lēpe](the_finale/2sika_lepe.jpg){height=550px}
+![Sīkā lēpe](udensrozes/2sika_lepe.jpg){height=550px}
 
 ---
 
-![Baltā ūdensroze](the_finale/3balta_udensroze.jpg){height=550px}
+![Baltā ūdensroze](udensrozes/3balta_udensroze.jpg){height=550px}
 
 ---
 
-![Sniegbaltā ūdensroze](the_finale/4sniegbalta_udensroze.jpg){height=550px}
+![Sniegbaltā ūdensroze](udensrozes/4sniegbalta_udensroze.jpg){height=550px}
 
 ---
 
