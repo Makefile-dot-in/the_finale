@@ -113,22 +113,6 @@ background-image: fons.jpg
 
 ---
 
-##### Nakteņu dzimta
-
----
-
-![Parastā egle](priedes/1parasta_egle.jpg)
-
----
-
-![Parastā priede](priedes/2parasta_priede.jpg)
-
----
-
-![Japānas lapegle](priedes/3japanas_lapegle.jpg)
-
----
-
 ##### Cūknātru dzimta
 
 ---
@@ -264,6 +248,22 @@ background-image: fons.jpg
 ---
 
 ![Jūrmalas vijolīte](vijolites/jurmalas_vijolite.jpg){height=550px}
+
+---
+
+##### Nakteņu dzimta
+
+---
+
+![Kartupelis](naktenes/1kartupelis.jpg){height=550px}
+
+---
+
+![Ēdamais tomāts](naktenes/2edamais_tomats.jpg){height=550px}
+
+---
+
+![Melnā driģene](naktenes/3melna_drigene.jpg){height=550px}
 
 ---
 
@@ -407,3 +407,4 @@ background-image: fons.jpg
 ---
 
 ![Ievērojamā liesmene](senes/33ieverojama_liesmene.jpg){height=550px}
+
