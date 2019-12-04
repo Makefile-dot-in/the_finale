@@ -408,3 +408,6 @@ background-image: fons.jpg
 
 ![Ievērojamā liesmene](senes/33ieverojama_liesmene.jpg){height=550px}
 
+---
+
+![Paldies par uzmanību!](https://stadiblidene.lv/images/galerija/vasaras-pukes/Ageratum%20houstonianum%20%20Hawaii%20Blue.jpg){height=550px}
