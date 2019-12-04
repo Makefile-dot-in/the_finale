@@ -263,7 +263,7 @@ background-image: fons.jpg
 
 ---
 
-![Jūrmalas vijolīte](vijolites/augsta_vijolite.jpg){height=550px}
+![Jūrmalas vijolīte](vijolites/jurmalas_vijolite.jpg){height=550px}
 
 ---
 
