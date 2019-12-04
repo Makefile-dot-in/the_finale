@@ -394,11 +394,11 @@ background-image: fons.jpg
 
 ---
 
-![Iedzeltenais jumjupēdis](senes/3iedzeltenais_jumjupedis.jpg){height=550px}
+![Iedzeltenais jumjupēdis](senes/3iedezeltenais_jumjupedis.jpg){height=550px}
 
 ---
 
-![Smailā kailgalve](senes/31smaila_kailgalve){height=550px}
+![Smailā kailgalve](senes/31smaila_kailgalve.jpg){height=550px}
 
 ---
 
@@ -406,4 +406,4 @@ background-image: fons.jpg
 
 ---
 
-![Ievērojamā liesmene](senes/33ieverojama_liesmene.jpg)
+![Ievērojamā liesmene](senes/33ieverojama_liesmene.jpg){height=550px}
