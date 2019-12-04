@@ -45,6 +45,22 @@ background-image: fons.jpg
 
 ---
 
+##### Čemurziežu dzimta
+
+---
+
+![Zilpodze](cemurziedes/zilpodze.jpg){height=550px}
+
+---
+
+![Indīgais velnarutks](cemurziedes/indigais_velnarutks.jpg){height=550px}
+
+---
+
+![Briežu rūgtdille](cemurziedes/briezu_rugtdille.jpg){height=550px}
+
+---
+
 ##### Ūdensrožu dzimta
 
 ---
