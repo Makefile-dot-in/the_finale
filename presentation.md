@@ -45,6 +45,26 @@ background-image: fons.jpg
 
 ---
 
+##### Ūdensrožu dzimta
+
+---
+
+![Dzeltenā lēpe](the_finale/1dzeltena_lepe.jpg){height=550px}
+
+---
+
+![Sīkā lēpe](the_finale/2sika_lepe.jpg){height=550px}
+
+---
+
+![Baltā ūdensroze](the_finale/3balta_udensroze.jpg){height=550px}
+
+---
+
+![Sniegbaltā ūdensroze](the_finale/4sniegbalta_udensroze.jpg){height=550px}
+
+---
+
 ##### Magoņu dzimta
 
 ---
@@ -355,3 +375,19 @@ background-image: fons.jpg
 ---
 
 ![Tumšā bērzlape](senes/2tumsa_berzlape.jpg){height=550px}
+
+---
+
+![Iedzeltenais jumjupēdis](senes/3iedzeltenais_jumjupedis.jpg){height=550px}
+
+---
+
+![Smailā kailgalve](senes/31smaila_kailgalve){height=550px}
+
+---
+
+![Vītolu jumtene](senes/32vitolu_jumtene.jpg){height=550px}
+
+---
+
+![Ievērojamā liesmene](senes/33ieverojama_liesmene.jpg)
